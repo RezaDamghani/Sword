@@ -1,5 +1,4 @@
 # Sword
-Sword
 🗡️ 3D Sword – Designed with Blender
 
 A clean, ready-to-use model for art projects, renders, and digital showcases.
